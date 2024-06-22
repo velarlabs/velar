@@ -1,0 +1,38 @@
+{
+	"name": "velar",
+	"version": "0.0.2",
+	"description": "Node.js web framework",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/velarjs/velar.git"
+	},
+	"author": "Shakil Ahmed",
+	"license": "ISC",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
+	"types": "./dist/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"bugs": {
+		"url": "https://github.com/velarjs/velar/issues"
+	},
+	"homepage": "https://github.com/velarjs/velar#readme",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsup"
+	},
+	"dependencies": {
+		"body-parser": "^1.20.2",
+		"express": "^4.19.2",
+		"reflect-metadata": "^0.2.2"
+	},
+	"devDependencies": {
+		"@types/node": "^20.14.7",
+		"nodemon": "^3.1.4",
+		"prettier": "^3.3.2",
+		"ts-node": "^10.9.2",
+		"tsup": "^8.1.0",
+		"typescript": "^5.5.2"
+	}
+}

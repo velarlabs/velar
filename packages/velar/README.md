@@ -29,11 +29,7 @@ Join the Velar community to ask questions, share ideas, and showcase your projec
 - [GitHub Discussions](https://github.com/velarjs/velar/discussions)
 - [Discord](https://discord.gg/zBrpn7KAKq)
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all community interactions.
-
-## Contributing
-
-We welcome contributions to Velar! To get started, please read our [Contribution Guidelines](./docs/CONTRIBUTING.md).
+Please adhere to our Code of Conduct in all community interactions.
 
 ### Good First Issues
 
